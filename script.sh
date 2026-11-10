@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#SAlut sunt student A
+
 verify_ip() {
     local host="$1"
     local ip="$2"
